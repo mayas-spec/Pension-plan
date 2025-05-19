@@ -45,7 +45,7 @@
 
 .logo {
   margin-right: 50px;
-  font-style: italic;
+  font-style: normal;
   font-size: 32px;
   color: white;
   font-weight: bolder;
@@ -285,7 +285,7 @@ body {
 .section-header p {
   font-size: 16px;
   color:burlywood;
-  font-style:inherit;
+  font-style:normal;
   font-weight: bold;
   line-height: 1.6;
 }
